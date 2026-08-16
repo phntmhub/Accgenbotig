@@ -26,7 +26,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ========== BOT CONFIG ==========
-BOT_TOKEN = "7604781380:AAGFXiQlP-2csorQGXPO3Id4gj9Lcw8e2D0"
+BOT_TOKEN = "8666894951:AAGpPy7mOl4ghn3XjGGd1hat7dZ4E6-eUNA"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 # ========== CRYPTO CONSTANTS (from app.py) ==========
